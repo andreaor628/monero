@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2023, The Monero Project
+// Copyright (c) 2014-2024, The Monero Project
 // 
 // All rights reserved.
 // 
@@ -33,6 +33,7 @@
 #include <boost/thread/mutex.hpp>
 #include <condition_variable>
 #include <mutex>
+#include <thread>
 
 #include "gtest/gtest.h"
 
